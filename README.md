@@ -8,5 +8,5 @@ In this report, I’m going to present the strategies, analyses, and findings ac
 
 **[Tables](https://github.com/felipebita/digital_market_sales/blob/main/tables.xlsx)**
 
-**[QL codes](https://github.com/felipebita/digital_market_sales/blob/main/report_sqlcodes.ipynb)**
+**[SQL codes](https://github.com/felipebita/digital_market_sales/blob/main/report_sqlcodes.ipynb)**
 
